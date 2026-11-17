@@ -1,0 +1,15 @@
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\bin\Debug\net10.0\Fundamentos-de-programacion-.exe
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\bin\Debug\net10.0\Fundamentos-de-programacion-.deps.json
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\bin\Debug\net10.0\Fundamentos-de-programacion-.runtimeconfig.json
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\bin\Debug\net10.0\Fundamentos-de-programacion-.dll
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\bin\Debug\net10.0\Fundamentos-de-programacion-.pdb
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.GeneratedMSBuildEditorConfig.editorconfig
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.AssemblyInfoInputs.cache
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.AssemblyInfo.cs
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.csproj.CoreCompileInputs.cache
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.sourcelink.json
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.dll
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\refint\Fundamentos-de-programacion-.dll
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.pdb
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\Fundamentos-de-programacion-.genruntimeconfig.cache
+C:\fundamentos de algoritmos\c#\proyecto de fundamentos\Fundamentos-de-programacion-\obj\Debug\net10.0\ref\Fundamentos-de-programacion-.dll
