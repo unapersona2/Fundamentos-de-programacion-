@@ -31,7 +31,7 @@ class Program
 
     static int ObtenerStock(int p, int t)
     {
-        return stock[p, t];
+        return stock[p - 1, t - 1];
     }
 
     static void VerStock()
@@ -42,11 +42,10 @@ class Program
                           "T4".PadLeft(6) + "T5".PadLeft(6) + "Total".PadLeft(8));
         Console.WriteLine(new string('-', 68));
 
-        int totalPrenda = 0;
-
         for (int p = 1; p <= 15; p++)
         {
             string linea = p.ToString().PadRight(4) + nombres[p - 1].PadRight(26);
+            int totalPrenda = 0;
 
             for (int t = 1; t <= 5; t++)
             {
