@@ -36,6 +36,8 @@ class Program
 
     static void VerStock()
     {
+        int[] totalTienda = new int[5];
+
         Console.WriteLine();
         Console.WriteLine("N".PadRight(4) + "Prenda".PadRight(26) +
                           "T1".PadLeft(6) + "T2".PadLeft(6) + "T3".PadLeft(6) +
@@ -52,6 +54,7 @@ class Program
                 int cantidad = ObtenerStock(p, t);
                 linea += cantidad.ToString().PadLeft(6);
                 totalPrenda += cantidad;
+                totalTienda[t - 1] += cantidad;
             }
 
             linea += totalPrenda.ToString().PadLeft(8);
@@ -59,5 +62,17 @@ class Program
         }
 
         Console.WriteLine(new string('-', 68));
+
+        string pie = "TOTAL".PadRight(30);
+        int totalGeneral = 0;
+
+        for (int t = 0; t < 5; t++)
+        {
+            pie += totalTienda[t].ToString().PadLeft(6);
+            totalGeneral += totalTienda[t];
+        }
+
+        pie += totalGeneral.ToString().PadLeft(8);
+        Console.WriteLine(pie);
     }
 }
