@@ -14,6 +14,24 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine("Modulo 2: Gestion de Stock iniciado.");
+        LlenarStockInicial();
+        Console.WriteLine("Stock inicial cargado.");
+    }
+
+    static void LlenarStockInicial()
+    {
+        for (int p = 0; p < 15; p++)
+        {
+            for (int t = 0; t < 5; t++)
+            {
+                stock[p, t] = 50;
+            }
+        }
+    }
+
+    static int ObtenerStock(int p, int t)
+    {
+        return stock[p, t];
     }
 }
+
